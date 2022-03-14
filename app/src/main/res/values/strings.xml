@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">COVID-19 Statistics</string>
+    <string name="app_description">COVID-19 Statistics Per Day</string>
+</resources>
